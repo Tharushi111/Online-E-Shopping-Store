@@ -6,5 +6,5 @@ This is the 2nd year 1st semester project for OOP module. The poject is to creat
 
 Below is the User Registration page of the website.
 
-![User Registration](Online-E-Shopping-Store/client/images/Screenshot(573).png
+![User Registration](OnlineShoppingStore/src/main/client/images/Screenshot(573).png
 
