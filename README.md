@@ -101,7 +101,7 @@ PASSWORD = "your_password";
 
 # If the project doesn't run correctly:
 
-🔍 Ensure MySQL Server is running
-🔍 Double-check your DB credentials in DBConnection.java
-🧾 Check the Eclipse console logs for any exceptions or errors
+1. 🔍 Ensure MySQL Server is running
+2. 🔍 Double-check your DB credentials in DBConnection.java
+3. 🧾 Check the Eclipse console logs for any exceptions or errors
 
