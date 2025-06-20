@@ -10,4 +10,8 @@ Below is the User Registration page of the website.
 
 ![User Registration](OnlineShoppingStore/src/main/webapp/client/images/signup.png)
 
+Below is the admin dashboard. All the controlability for admin is in this page.
+
+## 🧾 Admin Dashboard Page
+
 
