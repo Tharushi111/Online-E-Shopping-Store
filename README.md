@@ -16,4 +16,12 @@ Below is the admin dashboard. All the controlability for admin is in this page.
 
 ![admin dashboard](OnlineShoppingStore/src/main/webapp/admin/images/admindashboard.png)
 
+In the below page, it shows all the added sellers seperately. And also it includes 'Update'and 'Delete' options. When user click 'Update' button, it redirect to the specific seller's updatable form. The form includes previously added details of the seller. Admin can update all the details from that form. And when Admin clicks 'Delete' button, it redirect to the form with that already inserted details. In this form Admin can not change any details of the item. Because it all are read only. Then user click 'Delete item', the system popups the alert message whether the item should delete or not. If user click 'Yes' the seller will delete and redirect to the all sellers page.
+
+This fulfills the all part of my CRUD operations. Add seller option in below page, the admin can add new seller including their details.
+
+## 🧾 All sellers Page
+
+![admin dashboard](OnlineShoppingStore/src/main/webapp/admin/images/addUsers.png)
+
 
