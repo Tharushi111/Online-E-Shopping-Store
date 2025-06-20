@@ -32,3 +32,49 @@ This fulfills the all part of my CRUD operations. Add seller option in below pag
 
 🗄️ Database: MySQL Workbench
 
+## 🚀 How to Deploy & Run the Online Shopping Store (Java Web Project)
+
+A complete step-by-step guide to run this project locally using **Eclipse**, **MySQL Workbench**, and **Apache Tomcat v9**.
+
+---
+
+### ✅ Requirements
+
+Make sure you have the following installed:
+
+- ☕ **Java JDK 8** or later  
+- 🧠 **Eclipse IDE** (Enterprise Edition preferred)  
+- 🌐 **Apache Tomcat v9**  
+- 🐬 **MySQL Server & MySQL Workbench**  
+- 📦 **Project Archive**: `OnlineShoppingStore.zip`  
+- 🗃️ **Database Script**: `onlineshoppingstore new.sql`
+
+---
+
+### 📥 1. Import Project into Eclipse
+
+1. Launch **Eclipse IDE**  
+2. Go to: `File` → `Import` → `Existing Projects into Workspace`  
+3. Choose **Select archive file**, then click `Browse...` and select `OnlineShoppingStore.zip`  
+4. Click `Finish` to import the project
+
+---
+
+### 🛠️ 2. Set Up the Database in MySQL
+
+1. Open **MySQL Workbench**  
+2. Create a new **schema** named:  
+3. Open the SQL file: `onlineshoppingstore new.sql`  
+4. Execute the script to create all required **tables** and **sample data**
+
+---
+
+### 🔧 3. Configure Database Connection in the Project
+
+1. In Eclipse, locate the file:  
+2. Update the connection details:
+
+```java
+URL      = "jdbc:mysql://localhost:3306/onlineshoppingstore";
+USER     = "root";
+PASSWORD = "your_password";
