@@ -1,4 +1,4 @@
-# JSP-servlet-SLIIT-Y2S1-OOP
+![image](https://github.com/user-attachments/assets/81e4531e-f500-4ee0-aaf8-e9203635c3e4)# JSP-servlet-SLIIT-Y2S1-OOP
 
 OOP Online E-shopping store JSP servlet
 
@@ -24,4 +24,11 @@ This fulfills the all part of my CRUD operations. Add seller option in below pag
 
 ![admin dashboard](OnlineShoppingStore/src/main/webapp/admin/images/addUsers.png)
 
+## Used Technology Stack
+
+🌐 Frontend: HTML, CSS, JavaScript
+
+📦 Backend: JAVA
+
+🗄️ Database: MySQL Workbench
 
