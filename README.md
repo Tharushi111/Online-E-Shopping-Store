@@ -78,3 +78,30 @@ Make sure you have the following installed:
 URL      = "jdbc:mysql://localhost:3306/onlineshoppingstore";
 USER     = "root";
 PASSWORD = "your_password";
+
+```
+3. Save the file
+
+### 🖥️ 4. Add Apache Tomcat Server in Eclipse
+
+1. Go to: Window → Show View → Servers
+2. In the Servers tab, click Create a new server
+3. Choose: Apache → Tomcat v9.0 Server
+4. Select your Tomcat installation directory
+5. Add the OnlineShoppingStore project to the server
+6. Click Finish
+
+### ▶️ 5. Run the Project
+
+1. In the Servers view, right-click on the Tomcat server
+2. Click Start or Run
+3. Open your browser and visit: http://localhost:8080/OnlineShoppingStore/
+
+### 🎉 Project Successfully Deployed!
+
+# If the project doesn't run correctly:
+
+🔍 Ensure MySQL Server is running
+🔍 Double-check your DB credentials in DBConnection.java
+🧾 Check the Eclipse console logs for any exceptions or errors
+
