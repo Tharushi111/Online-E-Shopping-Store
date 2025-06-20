@@ -14,4 +14,6 @@ Below is the admin dashboard. All the controlability for admin is in this page.
 
 ## 🧾 Admin Dashboard Page
 
+![admin dashboard](OnlineShoppingStore/src/main/webapp/admin/images/admindashboard.png)
+
 
