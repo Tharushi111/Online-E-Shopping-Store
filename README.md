@@ -8,6 +8,6 @@ Below is the User Registration page of the website.
 
 ## 🧾 User Registration Page
 
-(OnlineShoppingStore/src/main/client/images/Screenshot-573.png)
+![User Registration](src/main/client/images/Screenshot(573).png)
 
 
