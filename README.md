@@ -8,13 +8,13 @@ My part is create the User Management part of the website and build all the crud
 
 Below is the User Login page of the website.
 
-## 🧾 User Login Page
+##  User Login Page
 
 ![User Login](OnlineShoppingStore/src/main/webapp/client/images/signup.png)
 
 Below is the admin dashboard. All the controlability for admin is in this page.
 
-## 🧾 Admin Dashboard Page
+##  Admin Dashboard Page
 
 ![admin dashboard](OnlineShoppingStore/src/main/webapp/admin/images/admindashboard.png)
 
@@ -22,38 +22,38 @@ In the below page, it shows all the added sellers seperately. And also it includ
 
 This fulfills the all part of my CRUD operations. Add seller option in below page, the admin can add new sellers including their details.
 
-## 🧾 All sellers Page
+##  All sellers Page
 
 ![admin dashboard](OnlineShoppingStore/src/main/webapp/admin/images/addUsers.png)
 
 ## Used Technology Stack
 
-🌐 Frontend: HTML, CSS, JavaScript
+ Frontend: HTML, CSS, JavaScript
 
-📦 Backend: JAVA
+ Backend: JAVA
 
-🗄️ Database: MySQL Workbench
+ Database: MySQL Workbench
 
-## 🚀 How to Deploy & Run the Online Shopping Store (Java Web Project)
+##  How to Deploy & Run the Online Shopping Store (Java Web Project)
 
 A complete step-by-step guide to run this project locally using **Eclipse**, **MySQL Workbench**, and **Apache Tomcat v9**.
 
 ---
 
-### ✅ Requirements
+###  Requirements
 
 Make sure you have the following installed:
 
-- ☕ **Java JDK 8** or later  
-- 🧠 **Eclipse IDE** (Enterprise Edition preferred)  
-- 🌐 **Apache Tomcat v9**  
-- 🐬 **MySQL Server & MySQL Workbench**  
-- 📦 **Project Archive**: `OnlineShoppingStore.zip`  
-- 🗃️ **Database Script**: `onlineshoppingstore new.sql`
+-  **Java JDK 8** or later  
+-  **Eclipse IDE** (Enterprise Edition preferred)  
+-  **Apache Tomcat v9**  
+-  **MySQL Server & MySQL Workbench**  
+-  **Project Archive**: `OnlineShoppingStore.zip`  
+-  **Database Script**: `onlineshoppingstore new.sql`
 
 ---
 
-### 📥 1. Import Project into Eclipse
+###  1. Import Project into Eclipse
 
 1. Launch **Eclipse IDE**  
 2. Go to: `File` → `Import` → `Existing Projects into Workspace`  
@@ -62,7 +62,7 @@ Make sure you have the following installed:
 
 ---
 
-### 🛠️ 2. Set Up the Database in MySQL
+###  2. Set Up the Database in MySQL
 
 1. Open **MySQL Workbench**  
 2. Create a new **schema** named:  
@@ -71,7 +71,7 @@ Make sure you have the following installed:
 
 ---
 
-### 🔧 3. Configure Database Connection in the Project
+###  3. Configure Database Connection in the Project
 
 1. In Eclipse, locate the file:  
 2. Update the connection details:
@@ -84,7 +84,7 @@ PASSWORD = "your_password";
 ```
 3. Save the file
 
-### 🖥️ 4. Add Apache Tomcat Server in Eclipse
+###  4. Add Apache Tomcat Server in Eclipse
 
 1. Go to: Window → Show View → Servers
 2. In the Servers tab, click Create a new server
@@ -93,17 +93,17 @@ PASSWORD = "your_password";
 5. Add the OnlineShoppingStore project to the server
 6. Click Finish
 
-### ▶️ 5. Run the Project
+###  5. Run the Project
 
 1. In the Servers view, right-click on the Tomcat server
 2. Click Start or Run
 3. Open your browser and visit: http://localhost:8080/OnlineShoppingStore/
 
-### 🎉 Project Successfully Deployed!
+###  Project Successfully Deployed!
 
 # If the project doesn't run correctly:
 
-1. 🔍 Ensure MySQL Server is running
-2. 🔍 Double-check your DB credentials in DBConnection.java
-3. 🧾 Check the Eclipse console logs for any exceptions or errors
+1.  Ensure MySQL Server is running
+2.  Double-check your DB credentials in DBConnection.java
+3.  Check the Eclipse console logs for any exceptions or errors
 
